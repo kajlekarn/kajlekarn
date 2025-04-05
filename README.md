@@ -80,7 +80,6 @@ https://github.com/nitinkajlekar/nitinkajlekar/raw/output/github-contribution-gr
 <p align="center">
   <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-
 ---
 
 ### ⌛ Weekly Coding Stats
