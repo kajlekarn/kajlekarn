@@ -10,12 +10,12 @@
 ---
 
 ### 🧠 About Me
-- 🔥 Passionate about designing **enterprise-level microservices**  
-- 👨‍💼 2.5+ years in **Java, Spring Boot, Cloud & DevOps**  
-- 🏗️ Built real-world systems with **Kafka**, **MongoDB**, **Redis**, **Docker**  
-- 🧑‍🏫 Leading and mentoring juniors, evolving into a **Team Lead**  
-- 🧩 Loves solving problems with **Java + Clean Architecture**  
-- ⚽ Plays football to boost team synergy and strategic thinking
+- 🔥 Dedicated to designing **enterprise-level microservices**  
+- 👨‍💼 Over **2.5 years** of experience in **Java, Spring Boot, Cloud & DevOps**  
+- 🏗️ Developed robust systems utilizing **Kafka**, **MongoDB**, **Redis**, and **Docker**  
+- 🧑‍🏫 Experienced in leading and mentoring junior developers, progressing into a **Team Lead** role  
+- 🧩 Passionate about problem-solving with **Java and Clean Architecture**  
+- ⚽ Engages in football to enhance team synergy and strategic thinking
 
 ---
 
@@ -61,7 +61,7 @@
 
 ---
 
-### 💬 Dev Quote of the Day
+### 💬 Developer Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
@@ -69,7 +69,7 @@
 
 ---
 
-### 🛰️ Contribution Graph (3D Animation!)
+### 🛰️ Contribution Graph (3D Animation)
 
 <p align="center">
   <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-snake-dark.svg" alt="snake animation" />
@@ -89,8 +89,3 @@
 
 <!-- (Optional) Uncomment the following section if you have Wakatime configured -->
 <!--
-```text
-Java             ███████████░░░░░░░░░ 55%
-SQL              ████████░░░░░░░░░░░░ 30%
-YAML             ██░░░░░░░░░░░░░░░░░░ 10%
-Others           ░░░░░░░░░░░░░░░░░░░░ 5%
