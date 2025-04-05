@@ -78,7 +78,7 @@ Make sure the output file is generated at:
 https://github.com/nitinkajlekar/nitinkajlekar/raw/output/github-contribution-grid-snake.svg
 -->
 <p align="center">
-  <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
