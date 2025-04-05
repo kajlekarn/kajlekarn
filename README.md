@@ -67,6 +67,14 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
+---
+
+### 🛰️ Contribution Graph (3D Animation!)
+
+<p align="center">
+  <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-snake-dark.svg" alt="snake animation" />
+</p>
+
 <p align="center">
   <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-snake-light.svg" alt="snake animation" />
 </p>
@@ -75,19 +83,6 @@
   <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-snake.gif" alt="snake animation" />
 </p>
 
----
-
-### 🛰️ Contribution Graph (3D Animation!)
-
-<!-- 
-To display an animated contribution graph, please set up the GitHub Action from Platane/snk:
-https://github.com/Platane/snk
-Make sure the output file is generated at:
-https://github.com/nitinkajlekar/nitinkajlekar/raw/output/github-contribution-grid-snake.svg
--->
-<p align="center">
-  <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-snake.gif" alt="Snake GIF Animation" />
-</p>
 ---
 
 ### ⌛ Weekly Coding Stats
