@@ -13,3 +13,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_LANGUAGE: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
