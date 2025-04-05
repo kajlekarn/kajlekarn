@@ -89,5 +89,7 @@
 
 ### ⌛ Weekly Coding Stats
 
-<!-- (Optional) Uncomment the following section if you have Wakatime configured -->
-<!--
+### ⌛ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
