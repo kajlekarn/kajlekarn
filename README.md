@@ -1,68 +1,36 @@
-<!-- Animated Banner -->
+<!-- Animated Gradient Header with Floating Stars -->
 <div align="center">
-  <!-- Replace the URL below with your own animated GIF/banner if desired -->
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.gif" alt="Animated Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=trans&section=header&reversal=true&color=auto&height=220&text=Nitin+Kajlekar&desc=Full-Stack+Java+Architect&fontSize=50&fontColor=fff&animation=twinkling&stroke=auto&strokeColor=fff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&duration=4000&pause=1000&color=FF82F4&center=true&vCenter=true&width=800&lines=🚀+Building+Cloud-Native+Systems+Since+2021;☕+Java+%7C+Spring+%7C+Microservices;⚡+Kafka+%7C+Docker+%7C+AWS;🎯+Leading+Teams+%7C+Mentoring+Developers" alt="Typing Animation" />
 </div>
 
-<h1 align="center">Hi, I'm Nitin Kajlekar</h1>
+---
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F78C6C&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Innovative+Java+Developer;Microservices+Enthusiast;CI%2FCD+Automation+Pro" alt="Typing SVG" />
-</p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://linkedin.com/in/nitin-kajlekar-a36823174" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kajlekarn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nitinkajlekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<!-- About Me -->
-<h2 align="center">About Me</h2>
-<p align="center">
-  I'm a passionate <b>Java Software Developer</b> with over <b>2.5 years</b> of experience in designing scalable microservices and optimizing CI/CD pipelines. I work with technologies like <b>Spring Boot</b>, <b>Docker</b>, <b>Kafka</b>, and <b>AWS</b> to build cloud-ready applications. When I'm not coding, you'll find me on the football field sharpening my teamwork skills!
-</p>
-
-<!-- Tech Stack -->
-<h2 align="center">Tech Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GitHub-A8B9CC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-<!-- GitHub Stats and Activity Graph -->
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitinkajlekar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinkajlekar&theme=radical" alt="Streak Stats" width="47%" />
-</p>
-
-<h2 align="center">My Journey</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nitinkajlekar&theme=react-dark" alt="Activity Graph" />
-</p>
-
-<!-- Achievements Section -->
-<h2 align="center">Achievements</h2>
-<p align="center">
-  📈 <b>40%</b> boost in system scalability via Microservices architecture <br>
-  🧪 <b>50%</b> reduction in regression issues with effective testing strategies <br>
-  ⚡ <b>30% faster</b> data queries through optimized indexing and caching <br>
-  🔁 <b>35% performance gain</b> after migrating legacy systems to Spring Boot
-</p>
-
-<!-- Contact -->
-<h2 align="center">Let's Connect</h2>
-<p align="center">
-  <a href="mailto:kajlekarn@gmail.com"><img src="https://img.shields.io/badge/Email-kajlekarn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/nitin-kajlekar-a36823174"><img src="https://img.shields.io/badge/LinkedIn-Nitin%20Kajlekar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-</p>
+<!-- Floating Grid Layout -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      
+### 🎯 **Architectural Expertise**
+```mermaid
+graph TD
+  A[Java 17] --> B[Spring Boot 3]
+  B --> C[Event-Driven]
+  C --> D{{Kafka Streams}}
+  D --> E[Microservices]
+  E --> F[Cloud-Native]
+  F --> G{AWS ECS}
+  G --> H[Kubernetes]
+  style A fill:#FF6B6B,stroke:#333
+  style B fill:#4ECDC4,stroke:#333
+  style D fill:#FFE66D,stroke:#333
+</td>
+<td width="50%">
+  🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,kotlin,gradle,docker,kubernetes,aws,gcp,postgres,redis,kafka,jenkins,react,idea,vim" /> <br> <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Specialized+In&align=center&titleAlign=center&fontSize=20&lineCount=2&line1=spring,springboot,6DB33F;docker,docker,2496ED;aws,awsEC2,FF9900;&line2=kafka,kafka,231F20;postgres,postgresql,4169E1;redis,redis,DC382D;&" alt="Tech Stack" /> </p> </td> </tr> </table>
+<!-- Animated Contribution Grid with Floating Effect --><p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinkajlekar/nitinkajlekar/3d-contrib/profile-night-rainbow.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinkajlekar/nitinkajlekar/3d-contrib/profile-south-season-animate.svg"> <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/nitinkajlekar/nitinkajlekar/3d-contrib/profile-night-rainbow.svg"> </picture> </p>
+<!-- Glowing Stats Cards --><div align="center"> <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitinkajlekar&theme=radical&exclude=HTML,CSS,SCSS&hide_border=true&border_radius=20" /> <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitinkajlekar&theme=radical&hide_border=true&border_radius=20" /> <img height="160em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nitinkajlekar?cardType=github&theme=radical&Ring=FF00FF,00FFFF&Text=FFF&Background=1a1b27&PreferLogin=false" /> </div>
+<!-- Particle Animation Quote --><div align="center"> <a href="https://github.com/piyushsuthar/github-readme-quotes"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko&animation=glitch" alt="Daily Quote" /> </a> </div>
+<!-- Interactive Contact Buttons --><p align="center"> <a href="https://linkedin.com/in/nitin-kajlekar-a36823174" target="_blank"> <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27&color=FF00FF" alt="LinkedIn"/> </a> <a href="mailto:kajlekarn@gmail.com"> <img src="https://img.shields.io/badge/-Reach%20me%20via%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27&color=00FFFF" alt="Email"/> </a> </p>
+<!-- Rotating Trophy Case --><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nitinkajlekar&theme=matrix&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true&no-frame=true&column=4" alt="Trophies" /> </div>
+<!-- Animated Footer --><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=Stay%20Curious%20🚀&fontSize=40&fontColor=fff&animation=blink" /> ```
