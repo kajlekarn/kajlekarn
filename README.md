@@ -46,14 +46,6 @@
   <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-snake-light.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-snake.gif" alt="snake animation" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me
