@@ -1,3 +1,4 @@
+<h1 align="center">Hey Everyone 👋, I'm Nitin Kajlekar</h1>
 <!-- Enhanced Animated Gradient Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:00d4ff&height=240&section=header&text=Nitin%20Kajlekar%20👨‍💻&fontSize=50&fontColor=ffffff&animation=twinkle" />
