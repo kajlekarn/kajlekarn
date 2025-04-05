@@ -14,6 +14,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      # Create dist directory (Fixes the issue)
+      - name: Create dist folder
+        run: mkdir -p dist
+
       # Generate SVG animation
       - name: Generate snake animation
         uses: Platane/snk@master
@@ -22,6 +26,10 @@ jobs:
           outputs: |
             dist/github-snake-dark.svg
             dist/github-snake.gif
+
+      # Debug: List contents of dist to verify it's populated
+      - name: List dist contents
+        run: ls -l dist
 
       # Push generated files to output branch
       - name: Push to GitHub Pages
