@@ -43,7 +43,15 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kajlekarn&theme=dracula&no-frame=true&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-snake-dark.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-snake-light.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-snake.gif" alt="snake animation" />
 </p>
 
 ---
