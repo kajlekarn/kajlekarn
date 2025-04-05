@@ -71,6 +71,12 @@
 
 ### 🛰️ Contribution Graph (3D Animation!)
 
+<!-- 
+To display an animated contribution graph, please set up the GitHub Action from Platane/snk:
+https://github.com/Platane/snk
+Make sure the output file is generated at:
+https://github.com/nitinkajlekar/nitinkajlekar/raw/output/github-contribution-grid-snake.svg
+-->
 <p align="center">
   <img src="https://github.com/nitinkajlekar/nitinkajlekar/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
