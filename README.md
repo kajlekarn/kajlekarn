@@ -1,5 +1,7 @@
 <!-- Enhanced Animated Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:00d4ff&height=240&section=header&text=Nitin%20Kajlekar%20👨‍💻&fontSize=50&fontColor=ffffff&animation=twinkle" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:00d4ff&height=240&section=header&text=Nitin%20Kajlekar%20👨‍💻&fontSize=50&fontColor=ffffff&animation=twinkle" />
+</div>
 
 <h2 align="center">🔭 Java Developer | ⚙️ Spring Boot | ☁️ AWS | 🐳 Docker | 💬 Team Lead</h2>
 
