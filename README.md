@@ -1,7 +1,7 @@
 <!-- Enhanced Animated Gradient Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:00d4ff&height=240&section=header&text=Nitin%20Kajlekar%20👨‍💻&fontSize=50&fontColor=ffffff&animation=twinkle" />
 
-<h2 align="center">🔭 Java Developer | ⚙️ Spring Boot | ☁️ AWS | 🐳 Docker | 💬 Team Lead</h2>
+<h2 align="center">🔭 Java Developer | ⚙️ Spring Boot | ☁️ AWS | 🐳 Docker</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Innovative+Solutions;Cutting-Edge+Microservices;CI%2FCD+Maestro;Cloud+Enthusiast" alt="Animated Typing" />
