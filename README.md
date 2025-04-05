@@ -1,88 +1,68 @@
-<!-- Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=220&section=header&text=Nitin%20Kajlekar%20👨‍💻&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<!-- Animated Banner -->
+<div align="center">
+  <!-- Replace the URL below with your own animated GIF/banner if desired -->
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.gif" alt="Animated Banner" width="100%" />
+</div>
 
-<h2 align="center">🔭 Java Developer | ⚙️ Spring Boot | ☁️ AWS | 🐳 Docker | 💬 Team Lead</h2>
+<h1 align="center">Hi, I'm Nitin Kajlekar</h1>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=FF61C7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nitin+Kajlekar.;Java+Backend+Developer+%7C+Cloud+Ready+Apps;Clean+Architecture+%7C+Scalable+Systems;Footballer+%7C+Problem+Solver+%7C+Leader" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F78C6C&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Innovative+Java+Developer;Microservices+Enthusiast;CI%2FCD+Automation+Pro" alt="Typing SVG" />
 </p>
 
----
-
-### 🧠 About Me
-- 🔥 Passionate about designing **enterprise-level microservices**
-- 👨‍💼 2.5+ years in **Java, Spring Boot, Cloud & DevOps**
-- 🏗️ Built real-world systems with **Kafka**, **MongoDB**, **Redis**, **Docker**
-- 🧑‍🏫 Leading and mentoring juniors, growing into a **Team Lead**
-- 🧩 Enjoys solving problems with **Java + Clean Architecture**
-- ⚽ Plays football to boost team synergy and decision-making
-
----
-
-### ⚒️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,mysql,mongodb,postgres,redis,kafka,jenkins,git,github,aws,postman,idea" />
-</p>
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitinkajlekar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinkajlekar&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinkajlekar&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitinkajlekar&theme=dracula&no-frame=true&row=1&margin-w=15&margin-h=15" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
+<!-- Social Links -->
 <p align="center">
   <a href="https://linkedin.com/in/nitin-kajlekar-a36823174" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kajlekarn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=nitinkajlekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
-### 💬 Dev Quote of the Day
-
+<!-- About Me -->
+<h2 align="center">About Me</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  I'm a passionate <b>Java Software Developer</b> with over <b>2.5 years</b> of experience in designing scalable microservices and optimizing CI/CD pipelines. I work with technologies like <b>Spring Boot</b>, <b>Docker</b>, <b>Kafka</b>, and <b>AWS</b> to build cloud-ready applications. When I'm not coding, you'll find me on the football field sharpening my teamwork skills!
 </p>
 
----
-
-### 🛰️ Contribution Graph (3D Animation!)
-
+<!-- Tech Stack -->
+<h2 align="center">Tech Stack</h2>
 <p align="center">
-  <img src="https://github.com/nitinkajlekar/nitinkajlekar/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub-A8B9CC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
+<!-- GitHub Stats and Activity Graph -->
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitinkajlekar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinkajlekar&theme=radical" alt="Streak Stats" width="47%" />
+</p>
 
-### ⌛ Weekly Coding Stats
+<h2 align="center">My Journey</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nitinkajlekar&theme=react-dark" alt="Activity Graph" />
+</p>
 
-<!-- Use Wakatime (optional, if configured) -->
-<!--
-```text
-Java             ███████████░░░░░░░░░ 55%
-SQL              ████████░░░░░░░░░░░░ 30%
-YAML             ██░░░░░░░░░░░░░░░░░░ 10%
-Others           ░░░░░░░░░░░░░░░░░░░░ 5%
+<!-- Achievements Section -->
+<h2 align="center">Achievements</h2>
+<p align="center">
+  📈 <b>40%</b> boost in system scalability via Microservices architecture <br>
+  🧪 <b>50%</b> reduction in regression issues with effective testing strategies <br>
+  ⚡ <b>30% faster</b> data queries through optimized indexing and caching <br>
+  🔁 <b>35% performance gain</b> after migrating legacy systems to Spring Boot
+</p>
+
+<!-- Contact -->
+<h2 align="center">Let's Connect</h2>
+<p align="center">
+  <a href="mailto:kajlekarn@gmail.com"><img src="https://img.shields.io/badge/Email-kajlekarn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/nitin-kajlekar-a36823174"><img src="https://img.shields.io/badge/LinkedIn-Nitin%20Kajlekar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+</p>
