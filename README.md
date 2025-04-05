@@ -67,6 +67,14 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-snake-light.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/kajlekarn/kajlekarn/raw/output/github-snake.gif" alt="snake animation" />
+</p>
+
 ---
 
 ### 🛰️ Contribution Graph (3D Animation!)
