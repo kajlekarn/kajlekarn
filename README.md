@@ -1,79 +1,70 @@
-# 👋 Hi, I'm Nitin Kajlekar
+<h1 align="center">Hi 👋, I'm Nitin Kajlekar</h1>
 
-🎯 **Java Backend Developer | Microservices Enthusiast | CI/CD Practitioner**
+<p align="center">
+  <a href="https://linkedin.com/in/nitin-kajlekar-a36823174" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kajlekarn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nitinkajlekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-🚀 A passionate software engineer with over **2.5 years** of experience in **Java**, **Spring Boot**, and **Microservices architecture**, I'm focused on building scalable, secure, and cloud-ready applications. I've contributed to multiple production-grade systems where I designed APIs, improved CI/CD workflows, optimized performance, and integrated tools like Kafka, Docker, Redis, Jenkins, and AWS.
-
----
-
-## 💼 Work Experience
-
-### 💡 Java Software Developer — Computronics System (India) Pvt. Ltd. (May 2023 - April 2025)
-- Increased processing speed by **30%** by optimizing Java microservices.
-- Reduced downtime by **25%** with Docker-based monitoring.
-- Designed and deployed CI/CD pipelines with **Jenkins** & **GitHub Actions**, enabling 3 deployments per week.
-- Saved **20%** AWS costs through strategic EC2 & S3 optimization.
-
-### 🌱 Trainee Java Developer — Ypsilon IT Solutions (Nov 2021 - May 2022)
-- Improved system performance by **20%** through refactoring.
-- Created 10+ microservices using Spring Boot and enhanced API response by **30%**.
-- Participated in CI/CD pipelines and caching strategies using **Redis**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Microservices+%7C+CI%2FCD+%7C+Cloud+Ready;Spring+Boot+%7C+Docker+%7C+AWS+%7C+Kafka" />
+</p>
 
 ---
 
-## 🧠 Technical Skills
-
-**Languages & Frameworks:** Java, Spring Boot, JPA, JUnit, Mockito, REST, Swagger, Angular, SQL  
-**DevOps Tools:** Docker, Jenkins, GitHub Actions, Git, Postman  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**Cloud & Monitoring:** AWS (EC2, S3, CloudWatch), Kafka, Liquibase  
-**Others:** Agile, Microservices, MVC, JWT, Caching, Swagger, HTML/CSS
-
----
-
-## 🧪 Key Projects
-
-### 👥 FabHR - Cloud HR Management System
-- Increased HR data security by **20%** with Spring Boot & AWS
-- Integrated RBAC-based auth with **Spring Security**
-
-### 🏥 Hospital Appointment System
-- Built real-time booking using Angular + Spring Boot
-- Increased live update efficiency by **25%** with **Kafka**
-
-### 🧾 Visitor Management System
-- Implemented real-time WebSocket alerts for visitor logs
-- Reduced data latency by **50%** via caching/indexing
-
-### 📊 Hiring Management Platform
-- Automated recruitment with real-time analytics dashboards
-- Reduced hiring cycle time by **30%** via email/SMS automation
+### 🧑‍💻 About Me
+- 💼 Java Developer with **2.5+ years** of experience
+- 🔭 Currently building scalable microservices
+- ⚙️ Expert in **Spring Boot**, **JPA**, **REST APIs**
+- 🐳 Love working with **Docker**, **Kafka**, **Jenkins**
+- ☁️ Optimizing cloud deployments using **AWS**
+- ⚡ Passionate about clean code, CI/CD, and DevOps
+- ⚽ Football enthusiast on weekends!
 
 ---
 
-## 🏆 Achievements
+### 🛠️ Tech Stack
 
-- 📈 **40%** increase in system scalability via Microservices architecture
-- 🧪 **50%** fewer regressions through testing strategies with JUnit & Mockito
-- ⚡ **30%** faster data queries through optimized indexing
-- 🔁 **35%** performance boost from Spring Boot migration
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-## 📚 Education
+### 📈 GitHub Stats
 
-🎓 **B.E. in Mechanical Engineering** — Shri Vaishnav Institute of Technology & Science  
-📍 Indore, India
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitinkajlekar&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinkajlekar&theme=radical" width="47%" />
+</p>
 
 ---
 
-## 🌐 Let's Connect!
+### 🏆 Achievements
+- 📈 40% boost in system scalability via Microservices
+- 🧪 50% reduction in regressions with better testing
+- 💡 30% faster queries by optimizing DB indexes
+- 🔁 35% performance gain from Spring Boot migration
 
+---
+
+### 📫 Let's Connect
 📧 kajlekarn@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/nitin-kajlekar-a36823174)  
-📍 Indore, India
+📍 Indore, India  
+🌐 [LinkedIn](https://linkedin.com/in/nitin-kajlekar-a36823174)
 
 ---
 
-*“Code is not just syntax; it's a solution to someone’s problem.”*
-
+### 🔥 Fun Fact
+⚽ I play football regularly and believe team sports sharpen leadership and strategic thinking!
