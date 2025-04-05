@@ -1,89 +1,94 @@
-<h1 align="center">Hey Everyone 👋, I'm Nitin Kajlekar</h1>
+<!-- Enhanced Animated Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:00d4ff&height=240&section=header&text=Nitin%20Kajlekar%20👨‍💻&fontSize=50&fontColor=ffffff&animation=twinkle" />
 
-<div align="center">
-  <!-- Animated Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:00d4ff&height=240&section=header&text=Nitin%20Kajlekar%20👨‍💻&fontSize=50&fontColor=ffffff&animation=twinkle" alt="Nitin Kajlekar Banner">
-</div>
-
-<h3 align="center">Java Software Engineer | Microservices Specialist | CI/CD & Cloud Enthusiast</h3>
+<h2 align="center">🔭 Java Developer | ⚙️ Spring Boot | ☁️ AWS | 🐳 Docker | 💬 Team Lead</h2>
 
 <p align="center">
-  <a href="https://github.com/nitinkajlekar">
-    <img src="https://img.shields.io/github/followers/nitinkajlekar?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://linkedin.com/in/nitin-kajlekar-a36823174">
-    <img src="https://img.shields.io/badge/LinkedIn-Nitin%20Kajlekar-blue?logo=linkedin&style=flat-square" alt="LinkedIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Innovative+Solutions;Cutting-Edge+Microservices;CI%2FCD+Maestro;Cloud+Enthusiast" alt="Animated Typing" />
+</p>
+
+---
+
+### 🧠 About Me
+- 🔥 Passionate about designing **enterprise-level microservices**  
+- 👨‍💼 2.5+ years in **Java, Spring Boot, Cloud & DevOps**  
+- 🏗️ Built real-world systems with **Kafka**, **MongoDB**, **Redis**, **Docker**  
+- 🧑‍🏫 Leading and mentoring juniors, evolving into a **Team Lead**  
+- 🧩 Loves solving problems with **Java + Clean Architecture**  
+- ⚽ Plays football to boost team synergy and strategic thinking
+
+---
+
+### ⚒️ Languages & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,mysql,mongodb,postgres,redis,kafka,jenkins,git,github,aws,postman,idea" alt="Tech Icons" />
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitinkajlekar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinkajlekar&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinkajlekar&theme=tokyonight" alt="Profile Summary"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitinkajlekar&theme=dracula&no-frame=true&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/nitin-kajlekar-a36823174" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:kajlekarn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kajlekarn@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/nitinkajlekar/nitinkajlekar/main/coding.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nitinkajlekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/nitinkajlekar](https://github.com/nitinkajlekar)  
-- 💬 Ask me about **Java, Microservices, CI/CD, Cloud & DevOps**  
-- 📫 How to reach me **kajlekarn@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nitin-kajlekar-a36823174" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/>
-</p>
+### 💬 Dev Quote of the Day
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinkajlekar&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinkajlekar&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
 ---
 
-### 🔥 GitHub Contribution Streak
+### 🛰️ Contribution Graph (3D Animation!)
 
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+<!-- 
+To display an animated contribution graph, please set up the GitHub Action from Platane/snk:
+https://github.com/Platane/snk
+Make sure the output file is generated at:
+https://github.com/nitinkajlekar/nitinkajlekar/raw/output/github-contribution-grid-snake.svg
+-->
+<p align="center">
+  <img src="https://github.com/nitinkajlekar/nitinkajlekar/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nitinkajlekar&limit=5&theme=flat&combine_all_yearly_contributions=true)
+### ⌛ Weekly Coding Stats
 
----
-
-### 👨‍💼 About Me & 🤝 Open to Collaborations
-
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [kajlekarn@gmail.com](mailto:kajlekarn@gmail.com)
-
-> *"Designing scalable microservices with passion. Let's build and deploy innovative solutions together!"*
+<!-- (Optional) Uncomment the following section if you have Wakatime configured -->
+<!--
+```text
+Java             ███████████░░░░░░░░░ 55%
+SQL              ████████░░░░░░░░░░░░ 30%
+YAML             ██░░░░░░░░░░░░░░░░░░ 10%
+Others           ░░░░░░░░░░░░░░░░░░░░ 5%
