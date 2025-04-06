@@ -74,7 +74,7 @@
 
 ### 🛰️ Contribution Graph (3D Animation)
 
-![github contribution grid snake](https://github.com/kajlekarn/kajlekarn/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake](https://github.com/kajlekarn/kajlekarn/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
