@@ -1,38 +1,39 @@
-name: Generate Snake
+name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    # every 6 hours
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch: # allows manual trigger
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
+    name: Generate Snake and push to output branch
     steps:
-      # Checkout the repository
-      - uses: actions/checkout@v2
+      # Check out repo
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      # Generate the snake files (GIF + SVG)
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Create dist directory (Fixes the issue)
+      - name: Create dist folder
+        run: mkdir -p dist
+
+      # Generate SVG animation
+      - name: Generate snake animation
+        uses: Platane/snk@master
         with:
           github_user_name: kajlekarn
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-snake-dark.svg
+            dist/github-snake.gif
 
-      # Push the generated files to the 'output' branch
-      - name: Push changes to output branch
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
-          directory: dist
+      # Debug: List contents of dist to verify it's populated
+      - name: List dist contents
+        run: ls -l dist
 
-      # Deploy to GitHub Pages using the output branch
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Push generated files to output branch
+      - name: Push to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
